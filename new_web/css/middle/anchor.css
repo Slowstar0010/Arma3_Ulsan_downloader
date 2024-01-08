@@ -1,0 +1,26 @@
+.midddle_anchor_box{
+    display: flex;
+    background-color: var(--anchor_back_color);
+    margin-left: 1.5rem;
+    width: 88em;
+    height: 20rem;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.midddle_anchor_href{
+    display: flex;
+    flex-direction: column;
+    margin-left: 1rem;
+    width: 6rem;
+    height: 6rem;
+}
+
+.midddle_anchor_img {
+    margin-top: 0.8rem;
+    width: 6rem;
+    height: 6rem;
+}
+.midddle_anchor_text{
+    margin-left: 1.8rem;
+}

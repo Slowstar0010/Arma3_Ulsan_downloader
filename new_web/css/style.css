@@ -1,0 +1,10 @@
+@import url(reset.css);
+@import url(top/header.css);
+@import url(middle/anchor.css);
+@import url(middle/header.css);
+@import url(middle/box.css);
+@import url(var.css);
+
+body {
+    background-color: #2290ff5a;
+};

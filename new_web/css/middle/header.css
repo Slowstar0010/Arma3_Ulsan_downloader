@@ -1,0 +1,16 @@
+.middle_header {
+    display: flex;
+    margin-top: 3rem;
+    margin-left: 3rem;
+    padding-left: 2rem;
+    padding-right: 0.8rem;
+    padding-top: 0.2rem;
+    background-color: var(--anchor_back_color);
+    width: 5rem;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+
+.middle_header_text {
+    font-size: 2rem;
+};
